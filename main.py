@@ -1,3 +1,5 @@
+# MADE BY VZKO.
+
 import itertools
 
 chars = "abcdefghijklmnopqrstuvwxyz0123456789_."
